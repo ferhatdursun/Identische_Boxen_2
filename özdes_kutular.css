@@ -1,0 +1,165 @@
+.kutu {
+    background-color: pink;
+    width: 70rem;
+    height: 40rem;
+    border: 5px solid black;
+    margin: 2rem;
+
+}
+
+.kutu_sol_1 {
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.kutu_sol_2 {
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.kutu_sol_3 {
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.kutu_sag_1 {
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: right;
+    margin-right: 2rem;
+    margin-top: 2rem;
+}
+
+.kutu_sag_2 {
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: right;
+    margin-right: 2rem;
+    margin-top: 2rem;
+}
+
+.kutu_sag_3 {
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: right;
+    margin-right: 2rem;
+    margin-top: 2rem;
+    display: inline;
+}
+
+.kutu_sol_4 {
+    clear: left;
+    /* bu komut ile bir üstte olanlarin sola yaslamasini kirip tekrardan satir basindan basliyoruz. */
+
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.kutu_sol_5 {
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: right;
+    margin-right: 2rem;
+    margin-top: 1rem;
+}
+
+.kutu_orta_1 {
+    clear: right;
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.kutu_orta_2 {
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.kutu_orta_3 {
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: right;
+    margin-right: 2rem;
+    margin-top: 1rem;
+}
+
+.kutu_alt_üst_1 {
+    clear: right;
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.kutu_alt_üst_2 {
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: right;
+    margin-right: 2rem;
+    margin-top: 1rem;
+}
+
+.kutu_alt_1 {
+    clear: right;
+    width: 90px;
+    height: 90px;
+    border: 5px solid gray;
+    background-color: gray;
+    float: left;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.kutu_alt_2 {
+    border: 5px solid gray;
+    width: 90px;
+    height: 90px;
+    float: right;
+    margin-top: 2rem;
+    margin-right: 2rem;
+    background-color: gray;
+}
